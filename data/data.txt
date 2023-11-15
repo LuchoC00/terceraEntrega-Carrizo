@@ -1,0 +1,3 @@
+{"title":"producto prueba 333","description":"Este es un producto prueba","price":200,"thumbnail":"Sin imagen","code":"abc12345","stock":25}
+{"title":"producto prueba","description":"Este es un producto prueba","price":200,"thumbnail":"Sin imagen","code":"abc1234","stock":25}
+{"title":"producto prueba","description":"Este es un producto prueba","price":200,"thumbnail":"Sin imagen","code":"abc123","stock":25}
